@@ -10,7 +10,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Ezenitac-AiService/ex02.git
+git remote add origin https://github.com/kihoon1218/ex02.git
 git push -u origin main
 ```
 
